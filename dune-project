@@ -15,6 +15,6 @@
 
 (package
  (name forchen)
- (synopsis "now available 2 ocaml Shitp4sterS")
+ (synopsis "Now available 2 ocaml Shitp4sterS")
  (description ":fortune: :^)")
  (depends ocaml dune (mirage-random (>= 3.0.0))))
