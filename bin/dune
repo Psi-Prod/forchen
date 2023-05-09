@@ -1,4 +1,0 @@
-(executable
- (public_name forchen)
- (name forchen)
- (libraries forchen mirage-crypto-rng.unix))
